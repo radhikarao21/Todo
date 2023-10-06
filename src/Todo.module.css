@@ -1,0 +1,18 @@
+.main-container{
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 20px 15px;
+    margin: 15px 15px;
+    width: 25vw;
+    height: auto;
+}
+.main-container input{
+    padding: 10px 15px;
+}
+.main-container button{
+    padding: 10px 15px;
+    margin-left: 5px;
+    cursor: pointer;
+    background-color: wheat;
+}
